@@ -1,3 +1,6 @@
+
+
+
 # 📋 CSV Profiling Report Generator
 
 ## Introduction 
@@ -32,6 +35,9 @@ Directory structure:
         └── report.html
 ```
 
+## Demo Video
+
+https://github.com/user-attachments/assets/2c08b4f9-02f9-415b-b546-990166b068c6
 
 ## Installation (to run on your machine)
 
