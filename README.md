@@ -60,7 +60,6 @@ pip install -r requrements.txt
 4. Run the Application (make sure you are in virtual environment)
 ```
 python app.py
-
 ```
 5. Open your web browser and navigate to `http://127.0.0.1:5000/`.
 6. Upload the file and enjoy 😉✌🏻
